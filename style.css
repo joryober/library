@@ -1,0 +1,16 @@
+th,
+td,
+tr,
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 3px;
+}
+
+#newBookBtn {
+  margin-top: 10px;
+}
+
+.deleteBtn {
+  margin: 2px;
+}
